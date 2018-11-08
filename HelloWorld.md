@@ -1,2 +1,3 @@
 ## This is a markdown file
-git push datasciencecoursera HelloWorld
+$ git init
+git push origin master
